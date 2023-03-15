@@ -23,6 +23,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: var(--light-blue);
 }
 
 p {
@@ -32,10 +33,4 @@ p {
 
 img {
   width: 100%;
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
 }
